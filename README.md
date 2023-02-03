@@ -2,6 +2,7 @@
 
 I create typesafe python libraries to help people write safer code.
 
+[Linkedin](https://www.linkedin.com/in/james-chua-8a445913a/)
 
 
 #### Other Open Source contributions
