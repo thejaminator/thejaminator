@@ -5,7 +5,7 @@ I create typesafe python libraries to help people write safer code.
 
 
 #### Other Open Source contributions
-[![](https://img.shields.io/github/issues-search?label=strawberry-graphql/strawberry%20PRs&query=is%3Apr%20author%thejaminator%20repo%3Astrawberry-graphql%2Fstrawberry)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3A%40thejaminator) ![](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat&label=stars&color=yellow)  
+[![](https://img.shields.io/github/issues-search?label=strawberry-graphql/strawberry%20PRs&query=is%3Apr+author%3Athejaminator%20repo%3Astrawberry-graphql%2Fstrawberry)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3Athejaminator) ![](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat&label=stars&color=yellow)  
 
 
 
