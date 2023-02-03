@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+I create typesafe python libraries to help people write safer code.
+
+
+
+#### Other Open Source contributions
+[![](https://img.shields.io/github/issues-search?label=strawberry-graphql/strawberry%20PRs&query=is%3Apr%20author%thejaminator%20repo%3Astrawberry-graphql%2Fstrawberry)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3A%40thejaminator) ![](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat&label=stars&color=yellow)  
+
+
+
+More machine learning contributions coming soon...
+
+
+
 <!--
-**thejaminator/thejaminator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# thanks jakkdl for allowing me to lift this!
+for (group,repo) in [
+('strawberry-graphql', 'strawberry')]:
+    print(f'[![](https://img.shields.io/github/issues-search?label={group}/{repo}%20PRs&query=is%3Apr%20author%thejaminator%20repo%3A{group}%2F{repo})](https://github.com/{group}/{repo}/pulls?q=is%3Apr+author%3A%40thejaminator) ![](https://img.shields.io/github/stars/{group}/{repo}?style=flat&label=stars&color=yellow)  ')
 -->
