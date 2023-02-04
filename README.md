@@ -12,7 +12,7 @@ I create typesafe python libraries to help people write safer code.
 
 More machine learning contributions coming soon...
 
-### Style guides
+#### Style guides
 [Avoiding `UnboundLocalError`s](https://gist.github.com/thejaminator/111e3a24000ce4faaf002fa28b658bf4)
 
 
