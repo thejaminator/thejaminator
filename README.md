@@ -10,8 +10,6 @@ You can also reach me at chuajamessh  < dot > gmail
 
 
 
-More machine learning contributions coming soon...
-
 #### Style guides
 [Avoiding `UnboundLocalError`](https://gist.github.com/thejaminator/111e3a24000ce4faaf002fa28b658bf4)
 
