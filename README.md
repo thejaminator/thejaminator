@@ -7,7 +7,13 @@ I create typesafe python libraries to help people write safer code.
 You can also reach me at chuajamessh  < dot > gmail
 
 #### Other Open Source contributions
-[![](https://img.shields.io/github/issues-search?label=strawberry-graphql/strawberry%20PRs&query=is%3Apr+author%3Athejaminator%20repo%3Astrawberry-graphql%2Fstrawberry)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3Athejaminator) [![](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat&label=stars&color=yellow)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3Athejaminator)
+[![](https://img.shields.io/github/issues-search?label=strawberry-graphql/strawberry%20PRs&query=is%3Apr+author%3Athejaminator%20repo%3Astrawberry-graphql%2Fstrawberry)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3Athejaminator) 
+[![](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat&label=stars&color=yellow)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3Athejaminator)
+
+
+[![](https://img.shields.io/github/issues-search?label=eleutherai/elk%20PRs&query=is%3Apr+author%3Athejaminator%20repo%3Aeleutherai%2Felk)](https://github.com/EleutherAI/elk/pulls?q=is%3Apr+is%3Aclosed+author%3Athejaminator) 
+[![](https://img.shields.io/github/stars/eleutherai/elk?style=flat&label=stars&color=yellow)](https://github.com/EleutherAI/elk/pulls?q=is%3Apr+is%3Aclosed+author%3Athejaminator)
+
 
 
 
