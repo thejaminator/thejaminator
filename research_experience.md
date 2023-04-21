@@ -7,4 +7,4 @@ But conditioning on scalar rewards is more tricky. There may some implications o
 My package figures out all the changes in padding / position ids / attention masks to help conditioning on scalar rewards for pretrained LLMs. 
 
 I work as a Senior Machine Learning Engineer in my current company. In particular, I’ve built a labelling pipeline to build a model that was truthful and interesting to users, using decision transformer style techniques. I’ve used active learning to increase the efficiency of our labelling pipeline to collect reward feedback for our models.
-You can see examples of decision transformer style finetuning using OpenAI's api in [Attempts to align Language Models by putting the reward in the prompt](https://github.com/thejaminator/prompt_reward_rl/blob/main/documentation/main_page.md) which uses the OpenAI finetuning API.
+You can see examples of decision transformer style finetuning using OpenAI's api in [Attempts to align Language Models by putting the reward in the prompt](https://github.com/thejaminator/prompt_reward_rl/blob/main/documentation/main_page.md).
