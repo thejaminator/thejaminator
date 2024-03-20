@@ -3,8 +3,12 @@
 I create machine learning packages to help developers and researchers iterate faster.  
 I create typesafe python libraries to help people write safer code.
 
-[Linkedin](https://www.linkedin.com/in/james-chua-8a445913a/)  
-You can also reach me at chuajamessh  < dot > gmail
+[My blog](https://jameschua.net/post/)
+
+You also reach me at chuajamessh  < dot > gmail
+
+
+
 
 #### Other Open Source contributions
 [![](https://img.shields.io/github/issues-search?label=strawberry-graphql/strawberry%20PRs&query=is%3Apr+author%3Athejaminator%20repo%3Astrawberry-graphql%2Fstrawberry)](https://github.com/strawberry-graphql/strawberry/pulls?q=is%3Apr+author%3Athejaminator) 
