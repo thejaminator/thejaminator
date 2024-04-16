@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I create machine learning packages to help developers and researchers iterate faster.  
-I create typesafe python libraries to help people write safer code.
 
 [My blog](https://jameschua.net/post/)
 
